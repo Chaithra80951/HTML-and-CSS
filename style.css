@@ -1,0 +1,61 @@
+/* Navbar */
+
+.navBar{
+	background-color:cornsilk;
+	border: solid black 2px;
+	height: 50px;
+}
+
+.divLink-left{
+	margin-left: 80%;
+}
+
+.inline{
+	padding-top: 50px;
+}
+
+.inline1{
+	padding-top: 50px;
+}
+
+.divLink-right{
+	margin-left: 2%;
+}
+
+a{
+	color: solid black;
+	text-decoration: none;
+	font-family: cursive;
+}
+
+a:hover {
+	color:rgb(32, 139, 0);
+	text-decoration: solid;
+}
+
+/* Form */
+
+/* #form{
+	background-color: aqua;
+	height: 100%;
+	padding: 20px;
+	margin: 10px;
+	border: 3px solid black;
+}
+
+/* Flexbox */
+
+/* body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 100vh;
+	align-items: center;
+}
+
+.box-sizing{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	font-family: cursive;
+} */
